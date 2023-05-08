@@ -1,2 +1,8 @@
-.venv
+venv
 settings.py
+__pycache__
+*.txt
+archive
+build
+dist
+table.spec
